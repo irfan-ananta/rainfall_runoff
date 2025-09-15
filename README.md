@@ -3,7 +3,7 @@ Copyright 2025 Muhammad Irfan Ananta
 
 A Python-based open source toolkit for automating rainfall and runoff design workflows, tailored for water resources engineers and hydrologists. This project aims to simplify and accelerate hydrologic modeling using open data and tools like SWMM and QGIS.
 
-⚠️ **Note:** This toolkit is currently under development. Automation for data validation is still in progress. A new toolkit focusing on validation and intergration between external software will be released soon.
+⚠️ **Note:** This toolkit is currently under development. Automation for data validation is still on progress. A new toolkit focusing on validation and integration between external software will be released soon.
 
 
 ## 🌧️ Overview
